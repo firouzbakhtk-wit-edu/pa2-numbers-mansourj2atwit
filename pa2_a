@@ -56,6 +56,6 @@ public class pa2_a {
         System.out.printf("The average of the %d non-positive numbers: %.2f%n", countNegative, avgNonPositive);
         System.out.printf("The average of the %d numbers: %.2f%n", countTotal, avgAll);
 
-        scanner.close();
+        input.close();
     }
 }
